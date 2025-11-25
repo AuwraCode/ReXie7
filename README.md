@@ -10,6 +10,10 @@
 
 ---
 
+🛠️ Development Methodology: This project adopts an AI-First approach. While the architecture, logic, and problem-solving strategies are human-driven, the code implementation was accelerated using LLMs (Gemini/GPT). Every line of code has been manually reviewed, tested, and optimized to ensure reliability.
+
+---
+
 ## 🔮 What is ReXie7?
 
 Most price predictors use static, outdated datasets. **ReXie7** is alive. 
